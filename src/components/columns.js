@@ -1,0 +1,30 @@
+export const COLUMNS=[{
+    Header:'ID',
+    accessor:'id'
+},
+{
+    Header:'NAME',
+    accessor:'name'
+},
+{
+    Header:'IMAGE',
+    accessor:'image'
+},
+{
+    Header:'CATEGORY',
+    accessor:'category'
+},
+{
+    Header:'LABEL',
+    accessor:'label'
+},
+{
+    Header:'PRICE',
+    accessor:'price'
+},
+{
+    Header:'DESCRIPTION',
+    accessor:'description'
+}
+
+]
